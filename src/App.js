@@ -14,7 +14,9 @@ function App() {
       {/* <RandomColor/> */}
 
       {/* Star Rating Component */}
-      <StarRating noOfStars={10}/>
+      {/* <StarRating noOfStars={10}/> */}
+
+      {/* Image Slider Component */}
 
 
     </div>
